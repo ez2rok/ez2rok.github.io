@@ -16,4 +16,5 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Ethan Turok CV.pdf
+    # url: /cv/
