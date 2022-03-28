@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Eitan and I'm a junior at Columbia University studying math and computer science. I'm an obsessive learner and build tools to improve the quality of life for people.
+Hi! My name is Ethan and I'm a junior at Columbia University studying math and computer science. I'm an obsessive learner and build tools to improve the quality of life for people.
 
 Currently, I'm aiming to pursue a PhD. My research interests lie at the intersection of machine learning, optimization, and numerical methods with a focus on algorithms. I'm currently working with Professor [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) to develop differentially private machine learning algorithms.
 
