@@ -1,6 +1,6 @@
 ---
 title: "Resume Oracle"
-excerpt: "Upload your resume and instantly get a list of jobs that match your skills <br/><img src='/images/500x300.png'>"
+excerpt: "Upload your resume and instantly get a list of jobs that match your skills <br/><img src='/images/resume_oracle_homepage_screenshot.png'>"
 collection: portfolio
 ---
 
