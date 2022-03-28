@@ -12,4 +12,4 @@ The [Emerging Scholars Program](https://www.cs.columbia.edu/esp/) (ESP) is a 1-c
 
 * [Course Syllabus](https://docs.google.com/document/d/1hz2_GXo_EtuY2-UnV4Kb8dLMj_hkXHx1G0u0G0vcRN4/edit)
 * Serve as a workshop assistant for ESP where I help teach a weekly class to 10+ freshmen
-* Awarded Columbia Community Building Award for excellence in teaching and fostering a sense of community
+* Awarded Columbia Community Building Award for excellence in teaching and fostering a sense of community in ESP
