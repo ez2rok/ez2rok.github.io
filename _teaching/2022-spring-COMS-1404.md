@@ -8,8 +8,6 @@ date: 2022-01-18
 location: "NYC, USA"
 ---
 
-# -COMS-1404: Emerging Scholars Program
-
 The [Emerging Scholars Program](https://www.cs.columbia.edu/esp/) (ESP) is a 1-credit P/F course for first years about advanced computer science topics: machine learning, graph theory, UI/UX, algorithms, cryptography, etc. ESP is taught by upper-classmen.
 
 * [Course Syllabus](https://docs.google.com/document/d/1hz2_GXo_EtuY2-UnV4Kb8dLMj_hkXHx1G0u0G0vcRN4/edit)
