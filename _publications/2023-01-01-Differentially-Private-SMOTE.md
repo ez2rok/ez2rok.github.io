@@ -1,6 +1,6 @@
 ---
 title: "Differentially Private SMOTE"
-collection: work in progress
+collection: draft
 permalink: 
 excerpt: 'This paper develops a differentially private version of SMOTE.'
 date: 2023-01-01
