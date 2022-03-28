@@ -1,7 +1,7 @@
 ---
 title: "COMS 1404: Emerging Scholars Program"
 collection: teaching
-type: "Lecturer"
+type: "Workshop assistant"
 permalink: /teaching/2022-spring-COMS-1404
 venue: "Columbia University, Computer Science Department"
 date: 2022-01-18
