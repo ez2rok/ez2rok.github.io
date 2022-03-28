@@ -8,7 +8,7 @@ tags:
 ---
 # On the Common App Essay
 
-This is my Common App essay from 2017. I thought I'd post it so some other people might benifit from it. Enjoy!
+This is my Common App essay from 2017. I thought I'd post it here.
 
 # Like Moses
 I am like Moses from the Bible: discontent with simply talking to the rock: *“God: Speak to the rock… [But] Moses struck the rock” (Numbers 20)*.
