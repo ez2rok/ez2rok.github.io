@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#   - title: "Talks"
+#     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -17,4 +17,4 @@ main:
     
   - title: "CV"
     url: /files/Ethan Turok Resume.pdf
-    # url: /cv/
+#     url: /cv/
