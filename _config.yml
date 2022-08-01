@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ethan Turok's Personel Website"
+title                    : "Ethan Turok's Personal Website"
 title_separator          : "-"
 name                     : &name "Ethan Turok"
 description              : &description "Machine Learning Researcher @ Columbia University"
